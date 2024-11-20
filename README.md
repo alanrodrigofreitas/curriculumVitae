@@ -1,4 +1,4 @@
-# Currículo Profissional de Cibersegurança
+# Currículo - Profissional de Cibersegurança
 
 Este projeto é uma página web de currículo interativo e responsivo para um profissional de cibersegurança, com informações sobre formação, experiência, habilidades, certificações e contatos. Utiliza HTML, CSS, JavaScript e frameworks de terceiros para uma apresentação clara e profissional.
 
@@ -12,7 +12,7 @@ Este projeto é uma página web de currículo interativo e responsivo para um pr
 
 ## Estrutura do Projeto
 
-- **HTML (index.html)**: Estrutura principal da página com seções organizadas para objetivo, formação, experiência, certificações, habilidades, idiomas e premiações.
+- **HTML (index.html)**: Estrutura principal da página com seções organizadas para objetivo, formação, experiência, certificações, premiações, habilidades e idiomas.
 - **CSS (css/style.css)**: Estilos customizados, incluindo variáveis para modo claro e escuro, responsividade e animações de opacidade.
 - **JavaScript (js/script.js)**: Funcionalidades de modo escuro e efeitos visuais usando Intersection Observer para transição de opacidade em seções.
 - **Frameworks Utilizados**:
@@ -29,7 +29,7 @@ Para o funcionamento correto da página, é necessário:
 
 1. **Clonar o Repositório**:
    ```bash
-   git clone https://github.com/alanrodrigofreitas/meuCurriculo
+   git clone https://github.com/alanrodrigofreitas/curriculumVitae
    ```
    
 2. **Abrir o Arquivo HTML**: Navegue até a pasta do projeto e abra o arquivo `index.html` em um navegador.
@@ -59,5 +59,5 @@ Este projeto é de uso pessoal, desenvolvido para apresentação profissional.
 
 ---
 
-**Autor**: Alan Rodrigo Pereira Freitas  
+**Autor**: Alan Freitas  
 **Local**: Gaspar, Santa Catarina, Brasil
