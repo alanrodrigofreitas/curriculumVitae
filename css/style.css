@@ -63,7 +63,7 @@ section {
     color: var(--primary-color);
 }
 
-/* Responsividade para dispositivos menores */
+/* Responsividade para dispositivos mobiles */
 @media (max-width: 768px) {
     header, main, footer {
         padding-left: 1rem;

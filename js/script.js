@@ -20,7 +20,7 @@ document.addEventListener("DOMContentLoaded", () => {
         document.body.classList.add("dark-mode");
     }
 
-    // Função de manipulação de opacidade ao rolar a página
+    // Função de manipulação para opacidade ao rolar a página
     const toggleOpacityOnScroll = (entries) => {
         entries.forEach(entry => {
             entry.target.classList.toggle("fade-in", entry.isIntersecting);
